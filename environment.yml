@@ -1,0 +1,17 @@
+name: ds
+channels:
+# - pytorch
+# - huggingface
+# - fastai
+# - conda-forge
+dependencies:
+- pytorch
+- transformers
+- numpy
+- scipy
+- pandas
+- matplotlib
+- execnb
+- conda-forge/label/jupyterlab_alpha::jupyterlab
+- pip:
+  - jupyterlab_rise
