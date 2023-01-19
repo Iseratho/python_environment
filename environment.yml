@@ -13,5 +13,6 @@ dependencies:
 - matplotlib
 - execnb
 - conda-forge/label/jupyterlab_alpha::jupyterlab
+- ipywidgets
 - pip:
   - jupyterlab_rise
