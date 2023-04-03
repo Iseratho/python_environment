@@ -12,7 +12,9 @@ dependencies:
 - scipy
 - pandas
 - matplotlib
+- seaborn
 - execnb
 - conda-forge/label/jupyterlab_alpha::jupyterlab
+- ipywidgets
 - pip:
   - jupyterlab_rise
