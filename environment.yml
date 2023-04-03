@@ -1,11 +1,12 @@
 name: ds
 channels:
-# - pytorch
+- pytorch
 # - huggingface
 # - fastai
 # - conda-forge
 dependencies:
-- pytorch
+- python=3.10
+- pytorch>=2
 - transformers
 - numpy
 - scipy
