@@ -10,7 +10,7 @@ dependencies:
 - transformers
 - numpy
 - scipy
-- pandas
+- pandas>=2
 - matplotlib
 - seaborn
 - execnb
