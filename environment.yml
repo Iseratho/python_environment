@@ -14,7 +14,7 @@ dependencies:
 - matplotlib
 - seaborn
 - execnb
-- conda-forge/label/jupyterlab_alpha::jupyterlab
+- jupyterlab
 - ipywidgets
-- pip:
-  - jupyterlab_rise
+# - pip:
+#   - jupyterlab_rise
