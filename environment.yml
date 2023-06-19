@@ -14,7 +14,7 @@ dependencies:
 - matplotlib
 - seaborn
 - execnb
-- jupyterlab
+- jupyterlab>=4
 - ipywidgets
 # - pip:
 #   - jupyterlab_rise
