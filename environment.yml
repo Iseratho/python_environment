@@ -17,5 +17,6 @@ dependencies:
 - jupyterlab>=4
 - ipywidgets
 - pandoc
+- nbconvert[webpdf]
 # - pip:
 #   - jupyterlab_rise
