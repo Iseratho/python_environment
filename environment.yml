@@ -16,5 +16,6 @@ dependencies:
 - execnb
 - jupyterlab>=4
 - ipywidgets
+- pandoc
 # - pip:
 #   - jupyterlab_rise
